@@ -1,4 +1,4 @@
-# Noom
+# Video Chat with WebRTC
 
 Zoom Clone Coding with using NodeJS, WebRTC and Websockets.
 
